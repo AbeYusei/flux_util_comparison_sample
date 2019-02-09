@@ -1,0 +1,16 @@
+{
+  "name": "rematch-migration-part-1",
+  "version": "1.0.0",
+  "description": "Using Rematch with Redux only.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/3kpyz2nnz6",
+  "main": "index.js",
+  "dependencies": {
+    "@rematch/core": "latest",
+    "easy-peasy": "1.12.1",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-redux": "5.0.6",
+    "redux-thunk": "2.2.0"
+  }
+}
